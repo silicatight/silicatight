@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @silicatight
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on God
 - 📫 How to reach me ... try
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Justice
 
 <!---
