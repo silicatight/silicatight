@@ -93,10 +93,10 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ### Video embed
-#### Watch Our Video
 
 <iframe width="560" height="315" src="https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4" frameborder="0" allowfullscreen></iframe>
 
+Direct Link: https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4
 ## Download Document
 
 [Download Document](path-to-your-document/document.pdf)
