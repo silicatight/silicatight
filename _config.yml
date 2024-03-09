@@ -1,9 +1,5 @@
-remote_theme: pages-themes/tactile@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
-title: Info about ...
-description: This, poekwdpoqkpokp qw pqowp wpd peokapjofp[aewri[ wi oiew0io
+title: JHbcuiy 
+description: OIJoijo9m8 n oinoIoo edw7yc;lial;; sefeoerjoj
 show_downloads: false
-google_analytics: [Your Google Analytics tracking ID]
-
+google_analytics:
+theme: jekyll-theme-tactile
