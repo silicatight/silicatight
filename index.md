@@ -80,6 +80,8 @@ layout: default
 * * *
 **Будте очень осторожны при выборе Народного целителя и не ленитесь - проверяйте всю информацию!**
 
-<div style="text-align:center">
-    ![justice](./docs/cout%20symbol%20-2images.png)
-</div>
+<p align="center">
+  <img src="./docs/cout%20symbol%20-2images.png" alt="justice">
+</p>
+
+
