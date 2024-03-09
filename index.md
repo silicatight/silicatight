@@ -9,7 +9,7 @@ layout: default
 
 ### Официальные ссылки, созданные самим Петром Скрипником. Во всех этих публикациях Петр Скрипник удаляет негативные отзывы!
 
-1) [Канал «КОСТОПРАВ ПЕТР СКРИПНИК» na YOU TUBE](https://www.youtube.com/channel/UCfcchno3fjtmaxS_SQuWHFw)
+1) [Канал «КОСТОПРАВ ПЕТР СКРИПНИК» на YouTube](https://www.youtube.com/channel/UCfcchno3fjtmaxS_SQuWHFw)
 
 2) [Яндекс Дзен, Канал «Костоправ Петр Скрипник»](https://dzen.ru/id/6232d37f4dab1b543668f055)  
 
@@ -21,7 +21,7 @@ layout: default
 
 5) [АВИТО](https://m.avito.ru/buguruslan/predlozheniya_uslug/kostoprav-buguruslan_2611337777)
 
-6) [Одноклассники:«Костоправ Бугуруслан»](https://ok.ru/profile/572709702380)
+6) [Одноклассники, «Костоправ Бугуруслан»](https://ok.ru/profile/572709702380)
 
 * * *
 * * *
