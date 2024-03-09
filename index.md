@@ -4,7 +4,6 @@ layout: default
 
 <meta name="robots" content="noindex, nofollow">
 
-### Small image
 ![Justice](./docs/justice%20criminal%20law.jpeg)
 
 # Пётр Скрипник ~~целитель~~ ?
