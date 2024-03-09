@@ -3,7 +3,7 @@ layout: default
 
 [Link to another page](./another-page.html).
 
-# Petyuec is a  ~~strikethrough~~ !
+# Pert Skripnik ~~doctor~~ !
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
@@ -36,11 +36,22 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Header 5
+##### Ssilki na internet resursy 
+1) Видеохостинг YOU TUBE: https://www.youtube.com/channel/UCfcchno3fjtmaxS_SQuWHFw
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+Канал «КОСТОПРАВ ПЕТР СКРИПНИК».
+
+2) Яндекс Дзен https://dzen.ru/id/6232d37f4dab1b543668f055  Канал «Костоправ Петр Скрипник»
+
+3) ВКонтакте vk.com/kostoprav.buguruslan  Группа «Костоправ Бугуруслан»
+
+https://vk.com/petr.skripnik Петр Скрипник
+
+4) Яндекс карты https://yandex.ru/profile/108776955595 «Костоправ. Нетрадиционная медицина»
+
+5) АВИТО https://m.avito.ru/buguruslan/predlozheniya_uslug/kostoprav-buguruslan_2611337777
+
+6) Одноклассники «Костоправ Бугуруслан»
 
 ###### Header 6
 
