@@ -5,30 +5,8 @@ layout: default
 
 # Pert Skripnik ~~doctor~~ !
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Юридический статус Скрипник П.М.
+- физическое лицо с налогом на профессиональный доход (согласно ответу ФНС).
 
 #### Header 4
 
@@ -36,7 +14,7 @@ end
 *   This is an unordered list following a header.
 *   This is an unordered list following a header.
 
-##### Ssilki na internet resursy 
+##### Official'nye Ssilki na internet resursy:
 1) Видеохостинг YOU TUBE: https://www.youtube.com/channel/UCfcchno3fjtmaxS_SQuWHFw
 
 Канал «КОСТОПРАВ ПЕТР СКРИПНИК».
@@ -53,15 +31,6 @@ https://vk.com/petr.skripnik Петр Скрипник
 
 6) Одноклассники «Костоправ Бугуруслан»
 
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
 ### There's a horizontal rule below this.
 
 * * *
@@ -73,12 +42,13 @@ https://vk.com/petr.skripnik Петр Скрипник
 *   Item baz
 *   Item zip
 
-### And an ordered list:
+## Информация о наличии судимости:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+> 1) Согласно ответу  Врио начальника МО МВД РФ «Бугурусланский»  подполковника полиции Вакказова Д.Р. от 09 июля 2023 г. -  Скрипник П.М.  18.11.2008 г был судим за совершение преступления, предусмотренного по ч.1. ст 112 УК РФ  «Умышленное причинение вреда средней тяжести здоровья» и приговорен к 6 месяцам лишения свободы условно. ЭТОГО в ИНТЕРНЕТЕ НЕТ
+
+> 2) Уг. дело № 1(1)-213/2019 года – подсудимый Скрипник П.М. – умышленное нанесение телесных повреждений – переквалифицировано в административное. https://судебныерешения.рф/44610424
+
+    Номер дела: 5[1]-293/2021, Уникальный идентификатор: 56RS0007-01-2021-000999-67  - 13 мая 2021 г.- нанесение побоев и совершение иных насильственных действий, причинивших физическую боль - Скрипник П.М. привлекался к административной ответственности по ст.6.1.1. https://судебныерешения.рф/58645703
 
 ### And a nested list:
 
@@ -125,7 +95,7 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ### Video embed
 #### Watch Our Video
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4" frameborder="0" allowfullscreen></iframe>
 
 ## Download Document
 
