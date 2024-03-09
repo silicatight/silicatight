@@ -81,5 +81,5 @@ layout: default
 **Будте очень осторожны при выборе Народного целителя и не ленитесь - проверяйте всю информацию!**
 
 <div style="text-align:center">
-    ![](./docs/cout%20symbol%20-2images.png)
+    ![justice](./docs/cout%20symbol%20-2images.png)
 </div>
