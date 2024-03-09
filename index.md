@@ -3,9 +3,6 @@ layout: default
 ---
 
 <meta name="robots" content="noindex, nofollow">
-
-![Justice](./docs/justice%20criminal%20law.jpeg)
-
 # Пётр Скрипник ~~целитель~~ ?
 
 Юридический статус Скрипник П.М. - физическое лицо с налогом на профессиональный доход (согласно ответу ФНС).
