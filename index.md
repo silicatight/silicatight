@@ -67,7 +67,7 @@ layout: default
 В рубрике "Народная медицина" на канале Мир24 освещаются негативные [отзывы](https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4) пациентов, обратившихся к Петру Скрипнику.
 
 **Embeddded video:**
-[![Embeddded video](./docs/chel%20petr%20skripnik.jpg)](https://www.youtube.com/watch?v=HFs81KfyorI)
+[![Embeddded video](./docs/mir24%20petr%20skripnik.jpg)](https://www.youtube.com/watch?v=HFs81KfyorI)
 
 * * *
 Еще один [отзыв](./docs/video_2024-03-09_13-56-38.mp4) пациента, обращавшегося к костоправу Петру Скрипнику.
