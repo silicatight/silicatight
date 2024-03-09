@@ -1,9 +1,12 @@
 ---
 layout: default
+---
+
+<meta name="robots" content="noindex, nofollow">
 
 [Link to another page](./another-page.html).
 
-# Pert Skripnik ~~doctor~~ !
+# Petr Skripnik ~~doctor~~ !
 
 Юридический статус Скрипник П.М.
 - физическое лицо с налогом на профессиональный доход (согласно ответу ФНС).
