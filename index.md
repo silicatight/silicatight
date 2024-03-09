@@ -4,7 +4,7 @@ layout: default
 
 <meta name="robots" content="noindex, nofollow">
 
-![Justice](./docs/justice%20criminal%20law.jpeg)
+                                                              ![Justice](./docs/justice%20criminal%20law.jpeg)
 
 # Пётр Скрипник ~~целитель~~ ?
 
@@ -77,6 +77,5 @@ layout: default
 Будте очень осторожны при выборе Народного целителя и не ленитесь - проверяйте всю информацию!
 ```
 
-### Small image
-![Justice](./docs/cout%20symbol%20-2images.png.jpeg)
+                                                                ![Justice](./docs/cout%20symbol%20-2images.png)
 
