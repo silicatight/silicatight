@@ -21,7 +21,7 @@ layout: default
 
 5) [АВИТО](https://m.avito.ru/buguruslan/predlozheniya_uslug/kostoprav-buguruslan_2611337777)
 
-6) Одноклассники: «Костоправ Бугуруслан»
+6) [Одноклассники:«Костоправ Бугуруслан»](https://ok.ru/profile/572709702380)
 
 * * *
 * * *
