@@ -67,14 +67,17 @@ layout: default
 В рубрике "Народная медицина" на канале Мир24 освещаются негативные [отзывы](https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4) пациентов, обратившихся к Петру Скрипнику.
 
 **Embeddded video:**
-<iframe width="560" height="315" src="https://youtu.be/HFs81KfyorI?feature=shared" frameborder="0" allowfullscreen></iframe>
+[![Embeddded video](./docs/chel%20petr%20skripnik.jpg)](https://www.youtube.com/watch?v=HFs81KfyorI)
 
 * * *
-Негативный [отзыв](./docs/video_2024-03-09_13-56-38.mp4) пациента, обращавшегося к костоправу Петру Скрипнику.
+Еще один [отзыв](./docs/video_2024-03-09_13-56-38.mp4) пациента, обращавшегося к костоправу Петру Скрипнику.
+
 **Embeddded video:**
-<iframe width="560" height="315" src="https://youtu.be/7PWYvEhpad0?feature=shared" frameborder="0" allowfullscreen></iframe>
+[![Embeddded video](./docs/chel%20petr%20skripnik.jpg)](https://www.youtube.com/watch?v=7PWYvEhpad0)
 
 
+* * *
+* * *
 **Будте очень осторожны при выборе Народного целителя и не ленитесь - проверяйте всю информацию!**
 
 
