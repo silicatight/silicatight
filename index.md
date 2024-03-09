@@ -4,7 +4,7 @@ layout: default
 
 <meta name="robots" content="noindex, nofollow">
 
-                                                              ![Justice](./docs/justice%20criminal%20law.jpeg)
+![Justice](./docs/justice%20criminal%20law.jpeg)
 
 # Пётр Скрипник ~~целитель~~ ?
 
@@ -67,15 +67,19 @@ layout: default
 
 ### Видеоматериалы о деятельности Петра Скрипника
 
-[В рубрике "Народная медицина" на канале Мир24 освещаются негативные отзывы пациентов, обратившихся к Петру Скрипнику:](https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4)
-<iframe width="560" height="315" src="https://youtu.be/HFs81KfyorI" frameborder="0" allowfullscreen></iframe>
-[Негативный отзыв пациента, обращавшегося к костоправу Петру Скрипнику](./docs/video_2024-03-09_13-56-38.mp4)
-<iframe width="560" height="315" src="https://youtu.be/7PWYvEhpad0" frameborder="0" allowfullscreen></iframe>
+В рубрике "Народная медицина" на канале Мир24 освещаются негативные [отзывы](https://cloud.mail.ru/stock/fiq1zh2qQzEQKruMnierfLN4) пациентов, обратившихся к Петру Скрипнику.
+
+**Embeddded video:**
+<iframe width="560" height="315" src="https://youtu.be/HFs81KfyorI?feature=shared" frameborder="0" allowfullscreen></iframe>
+
+* * *
+Негативный [отзыв](./docs/video_2024-03-09_13-56-38.mp4) пациента, обращавшегося к костоправу Петру Скрипнику.
+**Embeddded video:**
+<iframe width="560" height="315" src="https://youtu.be/7PWYvEhpad0?feature=shared" frameborder="0" allowfullscreen></iframe>
 
 
-```
-Будте очень осторожны при выборе Народного целителя и не ленитесь - проверяйте всю информацию!
-```
+**Будте очень осторожны при выборе Народного целителя и не ленитесь - проверяйте всю информацию!**
 
-                                                                ![Justice](./docs/cout%20symbol%20-2images.png)
+
+![Justice](./docs/cout%20symbol%20-2images.png)
 
